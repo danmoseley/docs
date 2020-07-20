@@ -8,6 +8,8 @@ author: GrabYourPitchforks
 
 # Resolving BinaryFormatter obsoletion and disablement errors
 
+> __!! NOTICE !!__ This is a draft document and is not yet complete. The URL and content is subject to change. Please use __https://aka.ms/binaryformatter__ as the canonical URL when referring to this document.
+
 This document serves as the landing page for __https://aka.ms/binaryformatter__. Error messages containing this URL are shown to developers in one of two situations:
 
 - At compile time, a .cs file contained a call to the obsolete `BinaryFormatter.Serialize` or `BinaryFormatter.Deserialize` methods; or
